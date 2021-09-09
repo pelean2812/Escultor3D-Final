@@ -16,23 +16,25 @@ Caso esteja faltando arquivos no headers e no source, terá de adicionar manualm
 
 A interface criada no nosso projeto consiste em um canvas para visualizar o desenho que a pessoa faz utilizando o mouse ao pressionar sobre o canvas, existe a criação do espaço que vai ser trabalhado no projeto(o user vai selecionando no slidebar a quantidade desejada).A logica do slidebar é utilizado para varios itens como forma de selecionar um valor(cor e dimensões dos metodos dos itens nas ecultura.A tela que o usuario irá manusear é a seguinte:
 
-![Tela do user]()
+![Tela do user](https://github.com/efrainmpp1/Escultor3D-Final/blob/main/Imagens/InterfaceFoto.PNG)
 
 ## Salvar arquivo
 
 O save do arquivo é feito na abinha superior escrita file, quando selecionada abre as opções de salvar o arquivo ou de fechar(Quit).Quando o user clicar em save, receberá uma box com a mensagem de que o arquivo .off foi salvo com sucesso.O arquivo está sendo salvo com o nome de Escultura3D.off na pasta da biuld.Abrindo o arquivo num software que lê arquivos.off, no nosso caso foi o MeshLab, caso não tenha você pode baixar por [aqui](https://www.meshlab.net/#download).
 
-![tela de save]()
+![tela de save](https://github.com/efrainmpp1/Escultor3D-Final/blob/main/Imagens/Tela%20de%20Save.PNG)
+
+![Confirmar](https://github.com/efrainmpp1/Escultor3D-Final/blob/main/Imagens/ArquivoOFFgravado.PNG)
 
 Na imagem acima mostra a telinha para fazer o save
 
 ## Visualizando uma escultura qualquer
 
-![escultura interfacie]()
+![escultura interfacie](https://github.com/efrainmpp1/Escultor3D-Final/blob/main/Imagens/DesenhoEscultura.PNG)
 
 Na figura acima temos um desenho qualquer no quadro de desenho, selecionamos um espaço e criamos uma figuira com alguns metodos.
 
 
-![Escultura pronta]
+![Escultura pronta](https://github.com/efrainmpp1/Escultor3D-Final/blob/main/Imagens/EsculturaNoMeshLab.PNG)
 
 Na figura acima temos a visualização da nossa escultura no MeshLab.

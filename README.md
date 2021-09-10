@@ -1,5 +1,8 @@
 # Escultor3D Final
 
+Projeto desenvolvido para a disciplina de Programação Avançada pela Universidade Federal do Rio Grande do Norte.Foi desenvolvido um video no Youtube mostrando o projeto e as funcionalidades desenvolvidas, para acessar basta clicar [aqui](https://youtu.be/xabdqUgmzok)
+
+
 ## Onde foi feito
 
 Para desenvolver a interface, botões, funcionalidades e entre outras coisas, utilizou-se da IDE do QT Creator na qual oferece uma vasta variedade de ferramentas qe auxiliam a montar uma interfacie grafica.Para Baixar a IDE do QT Creator basta clicar [aqui](https://www.qt.io/download-open-source?hsCtaTracking=9f6a2170-a938-42df-a8e2-a9f0b1d6cdce%7C6cb0de4f-9bb5-4778-ab02-bfb62735f3e5).
